@@ -15,7 +15,7 @@ For this project, technologies implemented are:
 [x] Heroku
 
 #  Entity Relationship Diagram
-![Image](https://github.com/anderama100/LiquorGourmet/blob/master/Instr3.jpg)
+![Image](https://github.com/anderama100/LiquorGourmet/blob/master/Instr33.jpg)
 
 
 # Planned Enhancements
@@ -27,11 +27,11 @@ For this project, I planned to work on:
 # Instructions
 Create a new user to save your data in DataBase
 
-![Image](https://github.com/anderama100/LiquorGourmet/blob/master/Instr1.jpg)
+![Image](https://github.com/anderama100/LiquorGourmet/blob/master/Instr11.jpg)
 
 Log in in the app and follow the instructions.
  
-![Image](https://github.com/anderama100/LiquorGourmet/blob/master/Instr2.jpg)
+![Image](https://github.com/anderama100/LiquorGourmet/blob/master/Instr22.jpg)
 
 ## Getting Started
 
@@ -39,7 +39,7 @@ Log in in the app and follow the instructions.
 
 
 ## Code and Deployment
-*(https://github.com/anderama100/LiquorGourmet)
-*(https://liquor-gourmet.herokuapp.com/)
+*(https://github.com/anderama100/liquorGourmetOauth.git)
+*(https://liquorgourmet-oauth.herokuapp.com/)
 
                             
