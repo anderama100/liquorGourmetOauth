@@ -78,7 +78,7 @@ app.use(require('./routes/users'));
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.listen(PRT, () => {
-    console.log(`Our app is running on port ${ PRT }`);
+    console.log(`The app is running on port ${ PRT }`);
 });
 
 module.exports = app;
