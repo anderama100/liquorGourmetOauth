@@ -72,7 +72,7 @@ function normalizePort(val) {
 app.use(require('./routes/index'));
 app.use(require('./routes/spirits'));
 app.use(require('./routes/users'));
-//app.use(require('./routes/reviews'));
+app.use(require('./routes/reviews'));
 
 // static files
 app.use(express.static(path.join(__dirname, 'public')));
